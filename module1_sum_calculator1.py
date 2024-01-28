@@ -1,5 +1,6 @@
 def calculate_sum(a, b):
     """Calculate and return the sum of two numbers.
+    This is demo comment added here
 
     Args:
         a (float): The first number.
